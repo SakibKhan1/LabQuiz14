@@ -1,6 +1,6 @@
-//Name: Ashok Surujdeo
+//Name: Sakib Khan
 //CSCI 135
-//Lab Quiz 13
+//Lab Quiz 14
 
 #include <iostream>
 #include <vector>
